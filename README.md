@@ -14,9 +14,9 @@ Este proyecto en Java facilita la conversión de monedas utilizando un API exter
 
 ## Cómo usar
 
-1. Ejecuta la aplicación.
-2. Selecciona una opción del menú para la conversión deseada.
-3. Ingresa el monto a convertir.
+1. Ejecuta la aplicación entrando a tu IDE de preferencia,ejecutando el programa desde la clase Principal.
+2. Selecciona una opción del menú para la conversión deseada que esta entre 1 y 7.
+3. Ingresa el monto a convertir puede ser cualquiera.
 4. Obtén el resultado de la conversión.
 
 ## ¿Necesitas ayuda?
